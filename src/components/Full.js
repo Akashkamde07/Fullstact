@@ -60,7 +60,7 @@ function Full() {
               </div>
               <div className="flex flex-col gap-1">
                 <h2 className="text-start text-base font-bold leading-tight">Boost your career</h2>
-                <p className="text-[#49779c] text-sm font-normal leading-normal">Our students have been hired, earned raises, and found new jobs after completing our program</p>
+                <p className="text-[#49779c] text-sm font-normal leading-normal">Our students have been hired, earned raises, and found new jobs after completing our program Get Job Opportunities like Full Stack Developer, Backend Developer, Frontend Developer, Web Developer, Software Engineer, DevOps Engineer, Mobile App Developer, Database Administrator, Technical Lead, Product Manager, System Architect, API Developer, Cloud Engineer.</p>
               </div>
             </div>
           </div>
